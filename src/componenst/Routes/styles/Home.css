@@ -1,0 +1,7 @@
+.home__container__card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}

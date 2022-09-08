@@ -1,0 +1,24 @@
+.container__ProductCartInfo{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #ccc7;
+    width: 300px;
+    padding: 20px;
+
+}
+.fa-sharp{
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+   
+    
+}
+.hearder__ProductCarInfo{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.total__product{
+    text-align: end;
+}
